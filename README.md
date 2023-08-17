@@ -1,2 +1,2 @@
 # Banco-de-Dados
-Códigos da aula de Linguagem de Programação do segundo semestre de ADS
+Códigos da aula de Banco de Dados do segundo semestre de ADS

@@ -31,3 +31,9 @@ ON bd_rh_terca_noite.tb_funcionario
 TO alunotn@localhost;
 -- para dar acesso a todo o banco, colocar ON bd_rh_terca_noite *
 
+-- Para revogar a permissão de alterar:
+
+revoke update
+on bd_rh_terca_noite.tb_funcionario
+from alunotn@localhost;
+
